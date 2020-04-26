@@ -1,0 +1,4 @@
+git config --global user.name 'donggepython'
+git config --global user.email '615773682@qq.com'
+git init
+git status
